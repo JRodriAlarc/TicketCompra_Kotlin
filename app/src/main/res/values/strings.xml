@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">appTicket</string>
+    <string name="producto">Producto:</string>
+    <string name="precio">Precio:</string>
+    <string name="descuento">Descuento:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="calcular">Calcular</string>
+    <string name="mis_ventas">\"Mis Ventas\"</string>
+    <string name="precios">Precio por Unidad:</string>
+    <string name="precio_unit">precU</string>
+    <string name="name_product">Name Product</string>
+    <string name="quot_total_a_pagar_quot">\"Total a Pagar\"</string>
+    <string name="subtotal">Subtotal:</string>
+    <string name="total">Total:</string>
+    <string name="regresar">Regresar</string>
+    <string name="simbolo_porcentaje">%</string>
+    <string name="simbolo_pesos">$</string>
+    <string name="cantidad_de_productos">XY</string>
+    <string name="desc">Desc</string>
+</resources>
